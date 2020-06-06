@@ -58,12 +58,12 @@ public class AppCoordinator: Coordinator {
     }
     
     func goToMainMenuFlow() {
-        
+        //WORK IN PROGRESS
     }
     
     func  goToLoginFlow() {
         let vc = UIViewController()
         vc.view.backgroundColor = .systemBlue
-        navigationController.pushViewController(vc, animated: true)
+        navigationController.pushViewController(vc, animated: false)
     }
 }
