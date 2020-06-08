@@ -4,3 +4,4 @@ It will be done mostly with UIKIT and using some design Patterns that will be up
 Everyone is welcome to comment the PR's done here. Thanks!
 
 Trello link: https://trello.com/invite/b/vDHkhGz9/2a4a40320405e571329659bc18914ca6/autoescuela-ios
+Link to the components repo of this project: https://github.com/Apostol123/AutoEscuelaComponents 
