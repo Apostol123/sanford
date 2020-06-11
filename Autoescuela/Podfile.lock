@@ -1,0 +1,16 @@
+PODS:
+  - AutoEscuelaComponents (0.1.0)
+
+DEPENDENCIES:
+  - AutoEscuelaComponents (= 0.1.0)
+
+SPEC REPOS:
+  https://github.com/Apostol123/AutoEscuelaComponenetsPodSpec.git:
+    - AutoEscuelaComponents
+
+SPEC CHECKSUMS:
+  AutoEscuelaComponents: 3e6d2cfbd0e43b5697564393c08e3aa31bc0cdf9
+
+PODFILE CHECKSUM: 2560c879ea4075c84b928ab676cb6752a4f2d6d2
+
+COCOAPODS: 1.9.1
